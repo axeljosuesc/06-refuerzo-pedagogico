@@ -1,7 +1,7 @@
 /**
  * ============================================================================
  * 🥊 RETO 01 — Dominio del Contador (TypeScript puro)
- * Módulo: Programación Móvil — 3° Bachillerato Técnico (UETS)
+ * Módulo: Profgramación Móvil — 3° Bachillerato Técnico (UETS)
  * Docente: Ing. Milton Velásquez
  * ============================================================================
  */
